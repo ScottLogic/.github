@@ -7,4 +7,4 @@ At Scott Logic, we believe that open source offers immeasurable benefits and are
  - **Creation** - If we create a technology solution that we feel others would benefit from, we are committed to open sourcing it. You can see examples of our open source projects below.
  - **Partnering** - We are active members of the [Fintech Open Source Foundation](https://www.finos.org/) and [Linux Foundation](https://www.linuxfoundation.org/) and have partnered with various other organisations, such as [Bristol Pound](https://www.scottlogic.com/our-work/case-study-bristol-pound) and [J.P. Morgan](https://www.scottlogic.com/news/perspective-open-source-success-story), to collaborate on a great many open source projects and initiatives.
 
-Find out more about [Scott Logic and our commitment to open source on our website](https://www.scottlogic.com/our-commitment-open-source).
+Find out more about [Scott Logic and our commitment to open source on our website](https://www.scottlogic.com/who-we-are/our-commitment-open-source).
